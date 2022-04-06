@@ -1,0 +1,26 @@
+.Home{
+    color: rgb(221, 23, 23);
+}
+.Siber{
+    width: 350px;
+    height: 200px;
+   
+}
+.read{
+    color:rgb(221, 23, 23);
+}
+.section-container{
+    border: 5px solid whitesmoke;
+}
+section{
+    padding: 25px 0;
+}
+  .long-img img{
+      width: 530px;
+      
+  } 
+  .large-img img{
+      width: 530px;
+      height: 130px; ;
+  }
+  
